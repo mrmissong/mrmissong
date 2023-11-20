@@ -11,6 +11,7 @@
 
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![GoLang](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/75px-Go_Logo_Blue.svg.png?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend-End Development
 
